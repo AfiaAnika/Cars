@@ -24,7 +24,7 @@ public class Car{
             this.possition.x++;
         } else if(this.direction == 2) {
             this.possition.y++;
-        } else if (this.direction ==3 ) {
+        } else if (this.direction ==3 )  {
             this.possition.x--;
         } else if (this.direction == 4) {
             this.possition.y--;
